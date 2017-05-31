@@ -1,0 +1,32 @@
+{
+  "name": "burger-issue-solver-app",
+  "version": "1.0.0",
+  "engines": {
+    "node" : "6.10.x"
+  },
+  "description": "an app where you can order your choice of burger!",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrkem598/burger/tree/master"
+  },
+  "keywords": [
+    "burger",
+    "food",
+    "fast-food",
+    "burger-issue"
+  ],
+  "author": "Moh Kemal",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.5",
+    "mysql": "^2.10.2"
+  }
+}

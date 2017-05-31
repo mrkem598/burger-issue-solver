@@ -7,10 +7,10 @@ connection = mysql.createConnection(process.env.JAWSDB_URL);
 } else {
   connection = mysql.createConnection({
     host: 'mgs0iaapcj3p9srz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-    user: 'pevfbpfy4n3663wr',
-    password: 'ateydv90gqnmx6ue',
+    user: 'ce22jdyzaxwdfti7',
+    password: 'ykocofwkax60c58z',
     port: '3306',
-    database: 'lzak74x02f5du921'
+    database: 'pmwpcaxpyxv10s9f'
   });
 }
 //Connect to the database

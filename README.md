@@ -29,3 +29,13 @@
 * Once submitted, the burger is displayed in text on the left side of the page where it's waiting to be devoured.
 * Each burger in the waiting area also has a Devour it! button. Once clicked, the burger will move to the right side of the page.
 * Every burger entered is stored in the database.
+***
+# How to Use The App
+***
+* Clone to your local directory
+* CD to the folder
+* NPM install to get update all of the dependencies
+* Update the database(MySql) 
+* Run: node server.js
+* Go to your browser to run local host
+
